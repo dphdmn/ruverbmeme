@@ -1,5 +1,4 @@
-# ruverbmeme
-Russian verbal memory game
+# Russian verbal memory game
 
 https://eggyaytso.github.io/ruverbmeme/
 
